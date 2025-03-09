@@ -64,3 +64,12 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Update
+
+```shell
+# forge update
+$ forgeup
+# forge-zksync update
+$ forgeup-zksync
+```
